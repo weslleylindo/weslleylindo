@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+hello, my name is weslley, im from Brazil, am 17 yers old, i have 1 kids. I was born in tfe favela.
+Today i try to progress and grow in loife nad achieve my goals, and for this to happen i am focused and following my path in the best way possible.
 <!--
 **weslleylindo/weslleylindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
